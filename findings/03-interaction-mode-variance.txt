@@ -90,3 +90,5 @@ The cost of human-gated inference scales with human latency, not model capabilit
 - Correction detection: keyword matching ("no ", "don't", "stop", "wrong", "not that", "actually", "wait", "cancel", "undo") against human turn content
 - Duration from first to last JSONL timestamp (some sessions span days due to idle time)
 - The 152k-token outlier correlates with the documented 53-subagent incident (2026-03-29)
+
+================================================================

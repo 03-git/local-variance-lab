@@ -119,3 +119,6 @@ No standard exists. Closest building blocks:
 ## Infrastructure Implication
 
 Every enterprise deploying agents needs a credential authority under their control. Not a vendor sandbox. Not a cloud guardrail. A KEYMASTER that issues delegation credentials, enforces TTL, and provides physical revocation. The infrastructure where that authority runs is the sovereignty surface.
+
+
+================================================================
